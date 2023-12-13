@@ -1,0 +1,9 @@
+class_index,class,height,width
+0,dyed-lifted-polyps,224,224
+1,dyed-resection-margins,224,224
+2,esophagitis,224,224
+3,normal-cecum,224,224
+4,normal-pylorus,224,224
+5,normal-z-line,224,224
+6,polyps,224,224
+7,ulcerative-colitis,224,224
